@@ -55,3 +55,7 @@ This repository contains additional details about the certifications uploaded ab
 - Fundamentals of digital marketing
   - Google Digital Training (28 September 2019)
   - ID: [67J 9EW 5NV](https://learndigital.withgoogle.com/link/1gcpw8lsohs)
+ 
+- Certificate of merit
+  - University of Siena (23 November 2023)
+  - [Best graduate in Applied Mathematics for A.A. 2021-2022](https://github.com/EmanuelaPannini/certifications/blob/main/University%20of%20Siena%20-%20Best%20graduate%20in%20Applied%20Mathematics%20AA%202021-22.pdf)
